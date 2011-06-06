@@ -1,0 +1,9 @@
+In file included from /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m:9:
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.h:11:28: error: TouchesDelegate.h: No such file or directory
+In file included from /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m:9:
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.h:13: error: cannot find protocol declaration for 'TouchesDelegate'
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m: In function '-[ColorSelect loadView]':
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m:20: warning: 'ColorPicker' may not respond to '-setDelegate:'
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m:20: warning: (Messages without a matching method signature
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m:20: warning: will be assumed to return 'id' and accept
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m:20: warning: '...' as arguments.)

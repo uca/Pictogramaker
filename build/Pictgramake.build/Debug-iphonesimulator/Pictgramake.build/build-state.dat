@@ -1,0 +1,941 @@
+TPictgramake
+v7
+r0
+t326987452.109293
+cCheck dependencies
+cProcessInfoPlistFile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Info.plist Pictgramake-Info.plist
+cCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/MainWindow.xib
+cCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.xib
+cCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.xib
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/draw.png draw.png
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/Human.jpg Human.jpg
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/search.png search.png
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/Radiohead2.jpg ../PhotoApp/Radiohead2.jpg
+cCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.xib
+cCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.xib
+cCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.xib
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_black.png sankaku_black.png
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_blue.png sankaku_blue.png
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_gray.png sankaku_gray.png
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_green.png sankaku_green.png
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_orange.png sankaku_orange.png
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_parple.png sankaku_parple.png
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_red.png sankaku_red.png
+cCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_yellow.png sankaku_yellow.png
+cProcessPCH /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch.gch Pictgramake_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/main.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/PictgramakeAppDelegate.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictgramakeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawPictView.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawNewPictView.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawPict.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPict.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ScrollDragPict.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrollDragPict.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/SearchPict.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ColorSelect.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ColorPicker.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorPicker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ShapeSelectView.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake normal i386
+cGenerateDSYMFile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app.dSYM /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake
+cTouch /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D79D6020000000000000110
+t1299830274
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/../PhotoApp/Radiohead2.jpg
+c000000004DB27F8E00000000000E789E
+t1303543694
+s948382
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorPicker.h
+c000000004DCCCFF8000000000000014E
+t1305268216
+s334
+i<UIKit/UIKit.h>
+i"TouchesDelegate.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorPicker.m
+c000000004DCCD06E0000000000000B47
+t1305268334
+s2887
+i"ColorPicker.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.h
+c000000004DCCCF140000000000000112
+t1305267988
+s274
+i<UIKit/UIKit.h>
+i"ColorPicker.h"
+i"TouchesDelegate.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m
+c000000004DCCCF44000000000000066F
+t1305268036
+s1647
+i"ColorSelect.h"
+i"ColorPicker.h"
+i"ShapeSelectView.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.xib
+c000000004DCCFF0E0000000000007B35
+t1305280270
+s31541
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DragImage.h
+c000000004DCC7EB300000000000000DA
+t1305247411
+s218
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DragImage.m
+c000000004DCC7EF900000000000003EF
+t1305247481
+s1007
+i"DragImage.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.h
+c000000004DCC99B90000000000000152
+t1305254329
+s338
+i<UIKit/UIKit.h>
+i"ScrollDragPict.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m
+c000000004DCC99F10000000000000DC2
+t1305254385
+s3522
+i"DrawNewPictView.h"
+i"DrawPictView.h"
+i"ScrollDragPict.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.xib
+c000000004DCD31F100000000000053A0
+t1305293297
+s21408
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPict.h
+c000000004DCC99A000000000000000E0
+t1305254304
+s224
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPict.m
+c000000004DCC7CD0000000000000023A
+t1305246928
+s570
+i"DrawPict.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.h
+c000000004DCD298100000000000001BC
+t1305291137
+s444
+i<UIKit/UIKit.h>
+i"ScrollDragPict.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m
+c000000004DCD37740000000000000D02
+t1305294708
+s3330
+i"DrawPictView.h"
+i"DrawNewPictView.h"
+i"ScrollDragPict.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.xib
+c000000004DCD317D0000000000006510
+t1305293181
+s25872
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/FirstViewController.h
+c000000004DCC6E5600000000000000DC
+t1305243222
+s220
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/FirstViewController.m
+c000000004DCC6E5600000000000005A5
+t1305243222
+s1445
+i"FirstViewController.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictItemList.h
+c000000004DCD398E00000000000000D3
+t1305295246
+s211
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictItemList.m
+c000000004DCD398E0000000000001126
+t1305295246
+s4390
+i"PictItemList.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictItemList.xib
+c000000004DCD398E0000000000001C6F
+t1305295246
+s7279
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictgramakeAppDelegate.h
+c000000004DCC6E5600000000000001D3
+t1305243222
+s467
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictgramakeAppDelegate.m
+c000000004DCC6E560000000000000C3D
+t1305243222
+s3133
+i"PictgramakeAppDelegate.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.h
+c000000004DCC857600000000000000C8
+t1305249142
+s200
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m
+c000000004DCC8576000000000000024C
+t1305249142
+s588
+i"ScrallDragPict.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrollDragPict.h
+c000000004DCC97E500000000000000F2
+t1305253861
+s242
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrollDragPict.m
+c000000004DCC992C00000000000005F5
+t1305254188
+s1525
+i"ScrollDragPict.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.h
+c000000004DCC9CB100000000000000CA
+t1305255089
+s202
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.m
+c000000004DCC9CB10000000000000586
+t1305255089
+s1414
+i"SearchPict.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.xib
+c000000004DCCFF680000000000004EC6
+t1305280360
+s20166
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.h
+c000000004DCCC36800000000000000D4
+t1305265000
+s212
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.m
+c000000004DCCC3680000000000000595
+t1305265000
+s1429
+i"ShapeSelectView.h"
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.xib
+c000000004DCCFF6100000000000049FE
+t1305280353
+s18942
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/TouchesDelegate.h
+c000000004DCCCFD70000000000000216
+t1305268183
+s534
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/FirstView.xib
+c000000004DCC6E5600000000000049D5
+t1305243222
+s18901
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Human.jpg
+c000000004DCA90580000000000000914
+t1305120856
+s2324
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/MainWindow.xib
+c000000004DCCA4440000000000006A94
+t1305257028
+s27284
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Pictgramake_Prefix.pch
+c000000004DCC6E5600000000000000BF
+t1305243222
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/SecondView.xib
+c000000004DCC6E5600000000000049D3
+t1305243222
+s18899
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app
+t1305294652
+s782
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app.dSYM
+t1305294652
+s102
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/ColorSelect.nib
+t1305280273
+s2100
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/DrawNewPictView.nib
+t1305293372
+s1314
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/DrawPictView.nib
+t1305293234
+s2031
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/FirstView.nib
+t1305249754
+s1743
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Human.jpg
+t1305266774
+s2324
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Info.plist
+t1305266773
+s607
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/MainWindow.nib
+t1305266774
+s1834
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/PictItemList.nib
+t2
+s0
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake
+t1305294652
+s39576
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/PkgInfo
+t1305266773
+s8
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Radiohead2.jpg
+t1305266774
+s948382
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/SearchPict.nib
+t1305291344
+s1245
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/SecondView.nib
+t1305249754
+s1742
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/ShapeSelectView.nib
+t1305291344
+s1117
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/draw.png
+t1305266774
+s1108
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/sankaku_black.png
+t1305291344
+s490
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/sankaku_blue.png
+t1305291344
+s493
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/sankaku_gray.png
+t1305291344
+s511
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/sankaku_green.png
+t1305291344
+s493
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/sankaku_orange.png
+t1305291344
+s560
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/sankaku_parple.png
+t1305291344
+s493
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/sankaku_red.png
+t1305291344
+s495
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/sankaku_yellow.png
+t1305291344
+s517
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/search.png
+t1305266774
+s1811
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ColorPicker.o
+t1305268760
+s43400
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ColorSelect.o
+t1305268218
+s44988
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DragImage.o
+t1305249757
+s39188
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawNewPictView.o
+t1305291344
+s45440
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawPict.o
+t1305266776
+s37208
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawPictView.o
+t1305294651
+s47356
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/FirstViewController.o
+t1305249756
+s37476
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/PictItemList.o
+t2
+s0
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/Pictgramake.LinkFileList
+c000000004DCCCA5500000000000005C0
+t1305266773
+s1472
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/PictgramakeAppDelegate.o
+t1305266776
+s54576
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ScrallDragPict.o
+t1305249757
+s37092
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ScrollDragPict.o
+t1305266777
+s41000
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/SearchPict.o
+t1305266777
+s37488
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ShapeSelectView.o
+t1305266777
+s37592
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/main.o
+t1305266776
+s6320
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/draw.png
+c000000004DCA96E10000000000000454
+t1305122529
+s1108
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/main.m
+c000000004DCC6E560000000000000157
+t1305243222
+s343
+i<UIKit/UIKit.h>
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_black.png
+c000000004DCD236400000000000001EA
+t1305289572
+s490
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_blue.png
+c000000004DCD22D400000000000001ED
+t1305289428
+s493
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_gray.png
+c000000004DCD22DE00000000000001FF
+t1305289438
+s511
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_green.png
+c000000004DCD22E600000000000001ED
+t1305289446
+s493
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_orange.png
+c000000004DCD22EE0000000000000230
+t1305289454
+s560
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_parple.png
+c000000004DCD22F600000000000001ED
+t1305289462
+s493
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_red.png
+c000000004DCD230400000000000001EF
+t1305289476
+s495
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_yellow.png
+c000000004DCD230A0000000000000205
+t1305289482
+s517
+
+N/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/search.png
+c000000004DCA95BB0000000000000713
+t1305122235
+s1811
+
+N/var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch.gch
+t1305266776
+s15453392
+
+NPictgramake-Info.plist
+c000000004DCC6E56000000000000038D
+t1305243222
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326987451#326987451#0(0"0(0#1#0"8617280288#0"0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ColorPicker.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorPicker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326961560.495179
+e326961560.734396
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ColorPicker.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorPicker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorPicker.m326961560#326961560#0(0"0(0#0#69"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorPicker.m8612852096#2115"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorPicker.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ColorPicker.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ColorSelect.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326961018.515600
+e326961018.659511
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ColorSelect.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m326961018#326961018#0(0"0(0#0#69"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m8613001920#2115"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ColorSelect.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DragImage.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DragImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326942556.902147
+e326942557.010522
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DragImage.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DragImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DragImage.m326942556#326942557#0(0"0(0#0#67"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DragImage.m8624729376#2111"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DragImage.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DragImage.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawNewPictView.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326984144.628872
+e326984144.767121
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawNewPictView.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m: In function '-[DrawNewPictView viewDidLoad]':
+o/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m:44: warning: class 'DrawNewPictView' does not implement the 'UIScrollViewDelegate' protocol
+lSLF07#2@81"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m326984144#326984144#0(287"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m: In function '-[DrawNewPictView viewDidLoad]':/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m:44: warning: class 'DrawNewPictView' does not implement the 'UIScrollViewDelegate' protocol1(22@78"Class 'DrawNewPictView' does not implement the 'UIScrollViewDelegate' protocol326984144#121#166#0(6@73"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m326947185#44#0#44#0#45"class '*' does not implement the '*' protocol0(0#0#73"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m8613505152#2123"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawNewPictView.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawPict.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPict.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326959576.860677
+e326959576.992287
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawPict.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPict.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPict.m326959576#326959577#0(0"0(0#0#66"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPict.m8605392640#2109"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPict.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawPict.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawPictView.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326987451.773718
+e326987451.998559
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawPictView.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m: In function '-[DrawPictView viewDidLoad]':
+o/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m:45: warning: class 'DrawPictView' does not implement the 'UIScrollViewDelegate' protocol
+o/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m:65: warning: class 'DrawPictView' does not implement the 'UIScrollViewDelegate' protocol
+lSLF07#2@78"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m326987451#326987451#0(435"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m: In function '-[DrawPictView viewDidLoad]':/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m:45: warning: class 'DrawPictView' does not implement the 'UIScrollViewDelegate' protocol/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m:65: warning: class 'DrawPictView' does not implement the 'UIScrollViewDelegate' protocol2(22@75"Class 'DrawPictView' does not implement the 'UIScrollViewDelegate' protocol326987451#115#160#0(6@70"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m326987449#45#0#45#0#45"class '*' does not implement the '*' protocol0(22@75"Class 'DrawPictView' does not implement the 'UIScrollViewDelegate' protocol326987451#275#160#0(6@70"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m326987449#65#0#65#0#45"class '*' does not implement the '*' protocol0(0#0#70"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m8615206464#2117"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/DrawPictView.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/FirstViewController.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326942556.617996
+e326942556.773662
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/FirstViewController.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/FirstViewController.m326942556#326942556#0(0"0(0#0#77"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/FirstViewController.m8637681824#2131"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/FirstViewController.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/PictItemList.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictItemList.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/PictgramakeAppDelegate.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictgramakeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326959576.612228
+e326959576.740403
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/PictgramakeAppDelegate.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictgramakeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictgramakeAppDelegate.m326959576#326959576#0(0"0(0#0#80"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictgramakeAppDelegate.m8607820704#2137"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictgramakeAppDelegate.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/PictgramakeAppDelegate.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ScrallDragPict.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326942556.913023
+e326942557.042726
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ScrallDragPict.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m326942556#326942557#0(0"0(0#0#72"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m8623228384#2121"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ScrallDragPict.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ScrollDragPict.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrollDragPict.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326959576.908822
+e326959577.088796
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ScrollDragPict.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrollDragPict.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrollDragPict.m326959576#326959577#0(0"0(0#0#72"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrollDragPict.m8607543744#2121"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrollDragPict.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ScrollDragPict.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/SearchPict.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326959576.992420
+e326959577.122301
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/SearchPict.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.m326959576#326959577#0(0"0(0#0#68"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.m8612680288#2113"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/SearchPict.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ShapeSelectView.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326959577.228944
+e326959577.343116
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ShapeSelectView.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.m326959577#326959577#0(0"0(0#0#73"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.m8608237152#2123"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/ShapeSelectView.o0#
+
+CCompileC build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/main.o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326959576.610839
+e326959576.695526
+r1
+xCompileC
+xbuild/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/main.o
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/main.m326959576#326959576#0(0"0(0#0#54"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/main.m8608412256#2093"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -include /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/main.m -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.xib
+s326973072.897000
+e326973073.526340
+r1
+xCompileXIB
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.xib
+lSLF07#2@34"CompileXIB Classes/ColorSelect.xib326973072#326973073#0(0"0(0#0#71"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.xib8600268288#611"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/ColorSelect.nib /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ColorSelect.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.xib
+s326986172.320083
+e326986172.916183
+r1
+xCompileXIB
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.xib
+lSLF07#2@38"CompileXIB Classes/DrawNewPictView.xib326986172#326986172#0(0"0(0#0#75"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.xib8613485632#619"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/DrawNewPictView.nib /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawNewPictView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.xib
+s326986033.667741
+e326986034.329668
+r1
+xCompileXIB
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.xib
+lSLF07#2@35"CompileXIB Classes/DrawPictView.xib326986033#326986034#0(0"0(0#0#72"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.xib8613893216#613"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/DrawPictView.nib /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/PictItemList.xib
+r0
+
+CCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.xib
+s326984143.674443
+e326984144.528305
+r1
+xCompileXIB
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@33"CompileXIB Classes/SearchPict.xib326984143#326984144#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#70"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.xib8613964512#609"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/SearchPict.nib /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/SearchPict.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.xib
+s326984143.675500
+e326984144.426116
+r1
+xCompileXIB
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@38"CompileXIB Classes/ShapeSelectView.xib326984143#326984144#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#75"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.xib8613504832#619"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/ShapeSelectView.nib /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ShapeSelectView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/FirstView.xib
+s326942554.133882
+e326942554.992621
+r1
+xCompileXIB
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib326942554#326942554#0(0"0(0#0#61"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/FirstView.xib8624795040#599"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/FirstView.nib /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/MainWindow.xib
+s326959573.580079
+e326959574.255736
+r1
+xCompileXIB
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib326959573#326959574#0(0"0(0#0#62"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/MainWindow.xib8612874752#601"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/MainWindow.nib /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/SecondView.xib
+s326942553.470984
+e326942554.133761
+r1
+xCompileXIB
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib326942553#326942554#0(0"0(0#0#62"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/SecondView.xib8637886112#601"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/SecondView.nib /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/Human.jpg Human.jpg
+s326959574.280549
+e326959574.304698
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/Human.jpg
+xHuman.jpg
+lSLF07#2@14"Copy Human.jpg326959574#326959574#0(0"0(0#0#57"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Human.jpg8611706432#498"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Human.jpg /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/Radiohead2.jpg ../PhotoApp/Radiohead2.jpg
+s326959574.288667
+e326959574.322352
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/Radiohead2.jpg
+x../PhotoApp/Radiohead2.jpg
+lSLF07#2@31"Copy ../PhotoApp/Radiohead2.jpg326959574#326959574#0(0"0(0#0#74"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/../PhotoApp/Radiohead2.jpg8604458656#515"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/../PhotoApp/Radiohead2.jpg /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/draw.png draw.png
+s326959574.279035
+e326959574.299149
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/draw.png
+xdraw.png
+lSLF07#2@13"Copy draw.png326959574#326959574#0(0"0(0#0#56"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/draw.png8611811744#497"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/draw.png /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_black.png sankaku_black.png
+s326984144.426242
+e326984144.463420
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/sankaku_black.png
+xsankaku_black.png
+lSLF07#2@22"Copy sankaku_black.png326984144#326984144#0(0"0(0#0#65"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_black.png8614842368#506"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_black.png /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_blue.png sankaku_blue.png
+s326984144.427948
+e326984144.463698
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/sankaku_blue.png
+xsankaku_blue.png
+lSLF07#2@21"Copy sankaku_blue.png326984144#326984144#0(0"0(0#0#64"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_blue.png8604116672#505"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_blue.png /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_gray.png sankaku_gray.png
+s326984144.429343
+e326984144.463865
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/sankaku_gray.png
+xsankaku_gray.png
+lSLF07#2@21"Copy sankaku_gray.png326984144#326984144#0(0"0(0#0#64"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_gray.png8615530432#505"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_gray.png /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_green.png sankaku_green.png
+s326984144.430561
+e326984144.467639
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/sankaku_green.png
+xsankaku_green.png
+lSLF07#2@22"Copy sankaku_green.png326984144#326984144#0(0"0(0#0#65"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_green.png8614857312#506"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_green.png /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_orange.png sankaku_orange.png
+s326984144.433279
+e326984144.467845
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/sankaku_orange.png
+xsankaku_orange.png
+lSLF07#2@23"Copy sankaku_orange.png326984144#326984144#0(0"0(0#0#66"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_orange.png8614575360#507"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_orange.png /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_parple.png sankaku_parple.png
+s326984144.435427
+e326984144.464067
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/sankaku_parple.png
+xsankaku_parple.png
+lSLF07#2@23"Copy sankaku_parple.png326984144#326984144#0(0"0(0#0#66"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_parple.png8614496096#507"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_parple.png /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_red.png sankaku_red.png
+s326984144.437657
+e326984144.464251
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/sankaku_red.png
+xsankaku_red.png
+lSLF07#2@20"Copy sankaku_red.png326984144#326984144#0(0"0(0#0#63"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_red.png8614313120#504"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_red.png /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/sankaku_yellow.png sankaku_yellow.png
+s326984144.440142
+e326984144.464435
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/sankaku_yellow.png
+xsankaku_yellow.png
+lSLF07#2@23"Copy sankaku_yellow.png326984144#326984144#0(0"0(0#0#66"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_yellow.png8614264832#507"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/sankaku_yellow.png /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CCpResource build/Debug-iphonesimulator/Pictgramake.app/search.png search.png
+s326959574.285251
+e326959574.299324
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pictgramake.app/search.png
+xsearch.png
+lSLF07#2@15"Copy search.png326959574#326959574#0(0"0(0#0#58"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/search.png8610946496#499"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/search.png /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+
+CGenerateDSYMFile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app.dSYM /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake
+s326987452.039815
+e326987452.105063
+r1
+xGenerateDSYMFile
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app.dSYM
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/Pictgramake.app.dSYM build/Debug-iphonesimulator/Pictgramake.app/Pictgramake326987452#326987452#0(0"0(0#0#103"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake8617265760#422"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app.dSYM0#
+
+CLd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake normal i386
+s326987451.998781
+e326987452.039689
+r1
+xLd
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake
+xnormal
+xi386
+lSLF07#2@108"Link /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake326987451#326987452#0(0"0(0#0#0"8613313696#965"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -filelist /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Objects-normal/i386/Pictgramake.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Pictgramake0#
+
+CProcessInfoPlistFile /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Info.plist Pictgramake-Info.plist
+s326959573.542301
+e326959573.579880
+r1
+xProcessInfoPlistFile
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Info.plist
+xPictgramake-Info.plist
+lSLF07#2@30"Process Pictgramake-Info.plist326959573#326959573#0(0"0(0#0#70"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Pictgramake-Info.plist8604015296#518"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Pictgramake-Info.plist -genpkginfo /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app/Info.plist0#
+
+CProcessPCH /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch.gch Pictgramake_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326959575.729950
+e326959576.610590
+r1
+xProcessPCH
+x/var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch.gch
+xPictgramake_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Pictgramake_Prefix.pch326959575#326959576#0(0"0(0#0#70"/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Pictgramake_Prefix.pch8604269088#1972"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-generated-files.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-own-target-headers.hmap -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-all-target-headers.hmap -iquote /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/Pictgramake-project-headers.hmap -F/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/include -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources/i386 -I/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Pictgramake.build/Debug-iphonesimulator/Pictgramake.build/DerivedSources -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Pictgramake_Prefix.pch -o /var/folders/Fz/Fz7fTLlFF04NOpy28Al+3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pictgramake_Prefix-hddolxbtuzyqrpfjpdwqcmikzeww/Pictgramake_Prefix.pch.gch0#
+
+CTouch /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app
+s326987452.105180
+e326987452.109231
+r1
+xTouch
+x/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app
+lSLF07#2@97"Touch /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app326987452#326987452#0(0"0(0#0#0"8606325696#300"    cd /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/build/Debug-iphonesimulator/Pictgramake.app0#
+

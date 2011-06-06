@@ -1,0 +1,3 @@
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m: In function '-[DrawPictView viewDidLoad]':
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m:43: warning: class 'DrawPictView' does not implement the 'UIScrollViewDelegate' protocol
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/DrawPictView.m:59: warning: class 'DrawPictView' does not implement the 'UIScrollViewDelegate' protocol

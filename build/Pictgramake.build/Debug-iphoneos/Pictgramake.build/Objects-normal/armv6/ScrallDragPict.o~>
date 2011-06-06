@@ -1,0 +1,20 @@
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:9:27: error: ScrollDragPict.h: No such file or directory
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:15: warning: cannot find interface declaration for 'ScrollDragPict'
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m: In function '-[ScrollDragPict initWithFrame:]':
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:17: error: no super class declared in @interface for 'ScrollDragPict'
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m: In function '-[ScrollDragPict touchesBegan:withEvent:]':
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:28: error: request for member 'scrollEnabled' in something not a structure or union
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:30: error: request for member 'scrollEnabled' in something not a structure or union
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:33: error: request for member 'dragging' in something not a structure or union
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:34: error: request for member 'nextResponder' in something not a structure or union
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:36: error: no super class declared in @interface for 'ScrollDragPict'
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m: In function '-[ScrollDragPict touchesMoved:withEvent:]':
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:41: error: request for member 'dragging' in something not a structure or union
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:42: error: request for member 'nextResponder' in something not a structure or union
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:44: error: no super class declared in @interface for 'ScrollDragPict'
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m: In function '-[ScrollDragPict touchesEnded:withEvent:]':
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:49: error: request for member 'dragging' in something not a structure or union
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:50: error: request for member 'nextResponder' in something not a structure or union
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:52: error: no super class declared in @interface for 'ScrollDragPict'
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m: In function '-[ScrollDragPict dealloc]':
+/Users/uca/Desktop/iPhoneApp/03_app/Pictgramake/Classes/ScrallDragPict.m:57: error: no super class declared in @interface for 'ScrollDragPict'
